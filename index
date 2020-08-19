@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang = pt-br>
+	<head>
+		<meta charset ="UTF-8"/>
+		<title>Meu primeiro site</title>
+		<style>
+			h1{
+			font-family: Arial;
+			font-size: 30pt;
+			color: blue;
+			text-shadow: 2px 2px 2px red;
+		}
+		</style>
+	</head>
+	<boby>
+		<h1>Olá Mundo!!!</h1>
+	</body>
+</html>
